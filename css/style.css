@@ -6,8 +6,10 @@ border: {
     height: 70px;
     width: 100%;
     background-color: purple;
-    rgba: (138, 0, 230, .4);
+    /*rgba: (138, 0, 230, .4);*/
     font-family: 'Just Another Hand', cursive;
+    position: fixed;
+    z-index: 1;
 }
 
 .logo {
